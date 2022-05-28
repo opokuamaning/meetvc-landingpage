@@ -203,7 +203,7 @@ button .version {
 }
 
 .divider-bottom {
-    margin-bottom: -120px;
+    margin-bottom: -30px;
     position: relative;
     z-index: 1;
 }
@@ -214,45 +214,44 @@ button .version {
     background-image: linear-gradient(115deg, rgba(77, 150, 168, 0.9), rgba(77, 150, 168, 0.9)), url("/assets/desktop/image-footer.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    display: flex;
+    align-items: center;
 }
-
-.div-footer {
-    margin-left: 100px !important;
-    margin: 100px !important;
+.footer .div-footer{
+    width: 90%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-
-.footer-left-div,
-.footer-middle-div,
-.footer-right-div {
-    width: 400px;
-    display: inline-flex;
-    justify-self: center;
-    margin-top: 70px;
+.footer .footer-left-div, .footer .footer-middle-div, .footer .footer-right-div{
+    width: 25%;
+    height: 200px;
+    margin: 20px;
     color: #FAFAFA;
 }
-
-.footer h2 {
-    margin-left: auto;
-    margin-right: auto; 
-    font-size: 40px;
+.footer h2{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
 }
-
-.footer .footer-paragrahp-2 {
-    margin-left: auto;
+.footer .footer-paragrahp-2{
+    text-align: left;
     font-size: 20px;
 }
-
-.footer .download-btn-footer {
+.footer .download-btn-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-left: auto;
     margin-right: auto;
     background-color: #855FB1;
-}
-
-.download-btn-footer:hover {
+}.download-btn-footer:hover{
     background-color: #855FB195;
 }
-
-.version-footer {
+.version-footer{
     color: #D9B8FF;
 }
 @media (min-width: 481px) and (max-width: 768px) {
@@ -307,7 +306,7 @@ button .version {
     }
 
     .gallery img {
-        width: 25%;
+        width: 15%;
         height: auto;
         border-radius: 5px;
         margin-top: 10px;
@@ -319,32 +318,32 @@ button .version {
         word-wrap: normal;
         width: 80% !important;
     }
-    body .footer {
+    .footer {
         width: 100%;
-        height: 80vw !important;
+        height: 90vw !important;
         background-image: linear-gradient(115deg, rgba(77, 150, 168, 0.9), rgba(77, 150, 168, 0.9)), url(/assets/tablet/image-footer.jpg);
         background-repeat: no-repeat;
         background-size: 100% 100%;
-    }
-    .div-footer{
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .footer h2{
-        text-align: center;
-        margin: auto;
-        margin-right: auto;
-    }
-    .footer .footer-paragrahp-2{
-        text-align: center;
-    }
-    .footer-left-div,
-    .footer-middle-div,
-    .footer-right-div {
-        display: block;
-        color: #FAFAFA;
-    }
+        display: flex;
 
+    }
+    .footer .div-footer{
+        width: 90%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer .footer-left-div, .footer .footer-middle-div, .footer .footer-right-div{
+        width: 90%;
+        text-align: center;
+    }
+    .footer .footer-left-div{
+        font-size: 40px;
+    }
+    .footer .footer-middle-div{
+        text-align: center;
+        font-size: 30px;
+    }
 }
 @media (max-width: 500px){
 
