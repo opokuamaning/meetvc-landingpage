@@ -431,7 +431,10 @@ button .version {
         margin-left: auto;
         margin-right: auto;
     }
-
+    .hero-btn .what-is-it-btn{
+        margin-left: auto;
+        margin-right: auto;
+    }
     .gallery {
         width: 100%;
         max-width: 400px;
@@ -466,6 +469,7 @@ button .version {
     }
     .description-section .description-section-summary{
         width: 100%;
+        margin: 10px;
         font-size: 17px;
     }
     .footer {
