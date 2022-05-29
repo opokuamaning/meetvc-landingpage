@@ -6,17 +6,6 @@
     font-family: "Red Hat Display";
     box-sizing: border-box;
 }
-
-/* Colours to use */
-.colors {
-    background-color: #4D96A9;
-    background-color: #855FB1;
-    background-color: #28283D;
-    background-color: #87879D;
-    background-color: #8FE3F9;
-    background-color: #D9B8FF;
-}
-
 body {
     width: 100%;
     margin: 0 auto;
@@ -229,7 +218,6 @@ button .version {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: #28283D; */
 }
 
 .footer .footer-left-div,
@@ -239,7 +227,6 @@ button .version {
     height: 200px;
     margin: 20px;
     color: #FAFAFA;
-    /* background-color: #FAFAFA; */
     display: flex;
     align-items: center;
 }
@@ -442,11 +429,12 @@ button .version {
     button {
         margin-bottom: 20px;
     }
-
     .hero-btn {
-        width: 50%;
-        margin-left: auto;
-        margin-right: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .gallery {
         width: 100%;
