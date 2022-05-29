@@ -422,8 +422,9 @@ button .version {
     }
 
     .hero-text-p {
-        font-size: 25px;
+        font-size: 20px;
         word-wrap: break-word;
+        padding: 12px;
     }
 
     button {
