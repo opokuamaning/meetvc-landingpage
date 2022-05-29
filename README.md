@@ -63,8 +63,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -142,7 +140,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@amaningopoku](https://twitter.com/amaningopoku) - prince.amaning@amalitech.org
+Prince Opoku Amaning - [@amaningopoku](https://twitter.com/amaningopoku) - prince.amaning@amalitech.org
 
 Project Link: [https://github.com/opokuamaning/meetvc-landingpage](https://github.com/opokuamaning/meetvc-landingpage)
 
