@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](<a href="https://github.com/opokuamaning/meetvc-landingpage">
+(<a href="https://github.com/opokuamaning/meetvc-landingpage">
     <img src="assets/landingpage-shot.png" alt="shot" width="600">
   </a>)
 
