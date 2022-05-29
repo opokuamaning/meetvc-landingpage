@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/opokuamaning/meetvc-landingpage">
-    <img src="assets/logo.svg" alt="Logo" width="80" height="80">
+    <img src="assets/logo.svg" alt="Logo" width="120">
   </a>
 
 <h3 align="center">Meet Video Conferencing Landing</h3>
@@ -77,7 +77,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](<img src="assets/landingpage-shot.png">)
+[![Product Name Screen Shot][product-screenshot]](<a href="https://github.com/opokuamaning/meetvc-landingpage">
+    <img src="assets/landingpage-shot.png" alt="shot" width="600">
+  </a>)
 
 `opokuamaning`, `meetvc-landingpage`, `@amaningopoku`, `prince.amaning@amalitech.org`, `Meet VC Landing Page`, 
 
