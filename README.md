@@ -109,18 +109,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/opokuamaning/meetvc-landingpage.git
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -165,8 +154,6 @@ Project Link: [https://github.com/opokuamaning/meetvc-landingpage](https://githu
 ## Acknowledgments
 
 * [Otheil Drew](https://github.com/othneildrew)
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
