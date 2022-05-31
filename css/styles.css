@@ -55,11 +55,11 @@ main {
 }
 
 .hero-div-left {
-    margin-right: 40px;
+    margin-left: -40px;
 }
 
 .hero-div-right {
-    margin-left: 40px;
+    margin-right: -40px;
 }
 
 .hero-text-main {
@@ -76,8 +76,10 @@ main {
 }
 
 .hero-text-p {
+    width: 70%;
     font-size: 20px;
     color: #87879D;
+    margin: auto;
     margin-bottom: 30px;
 }
 
@@ -95,7 +97,7 @@ button {
 
 .download-btn {
     background-color: #4D96A9;
-    width: 180px;
+    width: 160px;
 }
 
 .download-btn:hover {
@@ -250,7 +252,9 @@ button .version {
     margin-right: auto;
     background-color: #855FB1;
 }
-
+.download-btn-footer{
+    width: 160px;
+}
 .download-btn-footer:hover {
     background-color: #855FB195;
 }
